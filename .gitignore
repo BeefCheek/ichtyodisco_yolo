@@ -1,0 +1,9 @@
+data/
+
+notebooks/
+
+models/
+
+.python-version
+.env
+
